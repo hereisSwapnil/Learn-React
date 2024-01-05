@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #1C3139;
+  background-image: url("./assests/back.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 150%;
+}

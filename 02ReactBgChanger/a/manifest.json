@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Email Fetcher",
+  "version": "1.0",
+  "description": "A Chrome extension to fetch emails",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}

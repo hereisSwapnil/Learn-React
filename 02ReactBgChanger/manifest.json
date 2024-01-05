@@ -1,0 +1,12 @@
+{
+  "name": "BgChanger",
+  "version": "1.0.0",
+  "description": "Help to cold mail people",
+  "manifest_version": 3,
+  "author": "",
+  "action": {
+    "default_popup": "main.jsx",
+    "default_title": "ColdMailer"
+  },
+  "permissions": ["storage"]
+}
