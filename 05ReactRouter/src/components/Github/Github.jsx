@@ -17,6 +17,5 @@ export default Github;
 export const githubInfoLoader = async () => {
   const response = await fetch("https://api.github.com/users/hereisSwapnil");
   let result = response.json();
-  console.log(result);
   return result;
 };
