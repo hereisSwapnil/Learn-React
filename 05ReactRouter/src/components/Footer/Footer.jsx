@@ -367,19 +367,28 @@ function Footer() {
 
               <ul className="mt-8 flex flex-wrap justify-start gap-4 text-xs sm:mt-0 lg:justify-end">
                 <li>
-                  <a href="#" className="text-gray-500 transition hover:opacity-75">
+                  <a
+                    href="#"
+                    className="text-gray-500 transition hover:opacity-75"
+                  >
                     Terms & Conditions
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" className="text-gray-500 transition hover:opacity-75">
+                  <a
+                    href="#"
+                    className="text-gray-500 transition hover:opacity-75"
+                  >
                     Privacy Policy
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" className="text-gray-500 transition hover:opacity-75">
+                  <a
+                    href="#"
+                    className="text-gray-500 transition hover:opacity-75"
+                  >
                     Cookies
                   </a>
                 </li>
