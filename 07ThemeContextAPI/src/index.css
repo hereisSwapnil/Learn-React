@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-black text-center flex flex-col dark:bg-black dark:text-white;
+}
+
+input:checked ~ .dot {
+  transform: translateX(100%);
+}
